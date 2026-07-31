@@ -209,11 +209,13 @@ Most research utilizes existing FMs from language and vision domains to generate
 | 2026.06 | [EvoOptiGraph: Weakness-Driven Coevolution via Graph-Based Structural Generation for Optimization Modeling](https://arxiv.org/pdf/2606.26578) |  | `MILP` | *arxiv* | Algorithm |
 | 2026.06 | [Scientific discovery as meta-optimization: a combinatorial optimization case study](https://arxiv.org/pdf/2606.26728) |  | `3-SAT` | *arxiv* | Algorithm |
 | 2026.06 | [RAISE: LLM-based Automated Heuristic Design with Robust Adversary Instance Search](https://arxiv.org/pdf/2606.31801) | | `OBP,OJSP,OVRP` | *arxiv* | Algorithm |
+| 2026.06 | [SLEEP: Simulated Future Learning Environments for Automated Evolution of Heuristic Portfolios](https://openreview.net/forum?id=sVYB5IihO2) | | `TSP,VRP` | *ICML 2026 Workshop DL4C* | Algorithm |
 | 2026.07 | [Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives](https://arxiv.org/pdf/2607.00604) | | `VRP` | *arxiv* | Review |
-| 2026.07 | [How to Guide LLMGeneration: Dual-Surrogate Guided Search for
-Automated Heuristic Design](https://arxiv.org/pdf/2607.13911) | | `TSP,KP,OBP, ASP,CVRP` | *arxiv* | Algorithm |
+| 2026.07 | [How to Guide LLMGeneration: Dual-Surrogate Guided Search for Automated Heuristic Design](https://arxiv.org/pdf/2607.13911) | | `TSP,KP,OBP, ASP,CVRP` | *arxiv* | Algorithm |
 | 2026.07 | [JOR-Bench: Japanese Operations Research Benchmarks for Large Language Models](https://arxiv.org/abs/2607.16777) | | `OR` | *arxiv* | Benchmark |
 | 2026.07 | [LaT: LLM-as-Trainer for Multi-Task Vehicle Routing Solvers](https://arxiv.org/pdf/2607.17708) | | `VRP` | *arxiv* | Algorithm |
+| 2026.07 | [SCOPE: Synthetic Conditional Objectives for Policy Evolution in Black-Box Combinatorial Optimization](https://arxiv.org/abs/2607.27630) | | `OR` | *arxiv* | Algorithm |
+| 2026.07 | [RELIC: Revealed Principles for Learning Interpretable Composable Skills in Multi-Agent Planning](https://arxiv.org/abs/2607.16745v2) | | `OR` | *arxiv* | Algorithm |
 
 ----
 
